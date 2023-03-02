@@ -1,7 +1,18 @@
 {
     "folders": [
         {
-            "path": "."
+            "path": "CPP TREE"
+        },
+        {
+            "path": "CPP Tut"
+        },
+        {
+            "path": "Python Code"
         }
-    ]
+    ],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp"
+        }
+    }
 }
